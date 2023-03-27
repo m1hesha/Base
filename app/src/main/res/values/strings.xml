@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Base</string>
+    <dimen name="table_max_height">600dp</dimen>
 </resources>
